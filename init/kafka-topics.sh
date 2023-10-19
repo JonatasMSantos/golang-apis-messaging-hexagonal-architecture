@@ -1,0 +1,1 @@
+kafka-topics --bootstrap-server=localhost9092 --topic=products --create
